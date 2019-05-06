@@ -10,4 +10,4 @@ Then implements methods for the following tasks:
 • Insert after a given node
 • Remove a given node
 • Move to front (move an object to the front)
-• Move to end (moved and object to the end)
+• Move to end (move and object to the end)
